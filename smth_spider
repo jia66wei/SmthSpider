@@ -1,8 +1,9 @@
 #!/bin/pthon
 # -*- coding: UTF-8 -*-
 
-###云主机: python3  spider.py
-import os,sys
+###云主机: python3  smth_spider.py
+import os
+import sys
 import json
 import random
 import re
